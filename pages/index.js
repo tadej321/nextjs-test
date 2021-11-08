@@ -4,7 +4,7 @@ import {Button} from "component-library-test"
 export default function Home() {
   return (
     <>
-      <Div>Hello</Div>
+      <Div>I am defined in the next.js app</Div>
       <Button/>
     </>
   )
